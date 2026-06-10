@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on freelance<br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
+Results-driven IT Graduate and Full-Stack Developer with specialized experience in industrial automation and smart manufacturing systems. Expert in building reliable web applications using PHP Frameworks, integrated with IoT hardware (RFID) and Computer Vision (YOLO) for HSE compliance. Proven ability to optimize manual workflows into digital solutions, trusted by enterprise and academic institutions alike. Strong communicator and natural leader, refined through roles as Head of Laboratory Assistant and community organizer. 
 
 
 ## 🌐 Socials:
