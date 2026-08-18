@@ -16,7 +16,7 @@
 ### 🧭 About Me
 
 - 🎓 Fresh graduate **S.Kom Teknik Informatika**, Universitas Singaperbangsa Karawang — cum laude, GPA 3.84
-- 🏭 Currently **Web Developer Intern** at PT. Inoac Polytechno Indonesia
+- 🏭 Currently **IT Staff** at PT. Inoac Polytechno Indonesia
 - 🔧 Previously interned at **PT. AT Indonesia** (HSE & safety-compliance systems: APD detection with YOLO, E-Checksheet, Contractor Safety) and **PT. Century Batteries Indonesia**
 - 🌱 Exploring **Laravel + Inertia.js + React**, moving toward a clean *Skinny Controller / Fat Service* backend architecture
 - ⚽ Side project builder — currently developing a football career simulator game
